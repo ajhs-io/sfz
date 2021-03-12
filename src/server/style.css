@@ -1,13 +1,23 @@
+@import url('https://use.typekit.net/ffm5ass.css'); 
+
 html {
-  font-family: -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
-  line-height: 1.5;
+  font-family: marine, -apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;
+  line-height: 1.2;
   color: #24292e;
 }
 
 .breadcrumbs {
-  font-size: 1.25em;
-  padding: 2.5em;
+  font-size: 1.6em;
+  padding-left: 2.5em;
+  padding-top: 0.2em;
   padding-bottom: 0;
+}
+
+.header {
+  font-size: 1.6em;
+  padding-left: 2.5em;
+  padding-top: 0.3em;
+  padding-bottom: 0.2em;
 }
 
 .breadcrumbs > a {
